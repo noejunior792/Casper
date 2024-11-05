@@ -1,4 +1,3 @@
-// main.rs
 mod api;
 mod command_executor;
 use std::io::{self, Write};
